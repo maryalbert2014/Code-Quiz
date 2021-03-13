@@ -1,0 +1,72 @@
+.txt-sm-left {
+	margin: 5px;
+}
+
+.txt-sm-right {
+	margin: 5px;
+	padding: 5px;
+}
+
+#spacer {
+	height: 100px;
+}
+
+#instructions {
+	position: block;
+	margin: auto;
+}
+
+#start-quiz-btn {
+	position: block;
+	margin: auto;
+}
+
+#start {
+	position: block;
+	margin: auto;
+}
+
+#start-btn {
+	background-color: orange;
+	position: block;
+	margin: auto;
+}
+
+#results-box {
+	display: none;
+}
+
+#high-scores {
+	display: none;
+}
+
+#test-box {
+	position: block;
+	margin: auto;
+}
+#answer-message {
+	position: block;
+	margin: auto;
+}
+
+.results {
+	display: none;
+}
+
+#submit-btn {
+	background-color: orange;
+}
+
+.score-keep {
+	display: none;
+}
+
+#go-back {
+	background-color:  orange;
+	color: cornsilk;
+}
+
+#clear-scores {
+	background-color:  orange;
+	color: cornsilk;
+}
